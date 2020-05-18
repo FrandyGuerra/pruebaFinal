@@ -1,0 +1,91 @@
+body {
+  font-family: sans-serif;
+}
+
+.app {
+  box-sizing: border-box;
+  border: 1px solid gray;
+  width: 600px;
+}
+.primera-fila,
+.segunda-fila,
+.tercera-fila,
+.cuarta-fila,
+.quinta-fila {
+  box-sizing: border-box;
+  border: 1px solid gray;
+}
+
+.primera-fila label {
+  display: inline-block;
+  width: 18%;
+  background-color: #ccc;
+  text-align: center;
+}
+.primera-fila input {
+  width: 30%;
+  padding: 0px;
+  margin: 0;
+}
+
+.segunda-fila label {
+  display: inline-block;
+  width: 18%;
+  text-align: center;
+  background-color: #ccc;
+}
+
+.segunda-fila select {
+  display: inline-block;
+  width: 20.3%;
+}
+
+.tercera-fila label {
+  display: inline-block;
+  width: 18%;
+  background-color: #ccc;
+  padding-top: 52px;
+  text-align: center;
+}
+
+.tercera-fila textarea {
+  display: inline-block;
+  width: 80%;
+}
+
+.cuarta-fila label {
+  display: inline-block;
+  width: 18%;
+  background-color: #ccc;
+  text-align: center;
+}
+
+.cuarta-fila input {
+  display: inline-block;
+  width: 80%;
+}
+
+.quinta-fila label {
+  display: inline-block;
+  text-align: center;
+  width: 18%;
+  background-color: #ccc;
+}
+
+.quinta-fila input {
+  display: inline-block;
+  width: 16%;
+}
+
+.sexta-fila input {
+  display: inline-block;
+  width: 16%;
+}
+
+#solicitante {
+  width: 40%;
+}
+
+#telefono {
+  width: 20.3%;
+}

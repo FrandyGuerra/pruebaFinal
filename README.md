@@ -1,2 +1,0 @@
-# pruebaFinal
-Created with CodeSandbox
